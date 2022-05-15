@@ -1,0 +1,1 @@
+Sample for responsive page

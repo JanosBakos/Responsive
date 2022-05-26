@@ -1,1 +1,1 @@
-example for responsive page
+responsive page
